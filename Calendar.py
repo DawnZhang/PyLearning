@@ -1,4 +1,4 @@
-"""This is a calendar. We can view, add, update, or delete an event on the calendar"""
+"""This is a calendar. Users can view, add, update, or delete an event on the calendar"""
 
 from time import sleep, strftime
 
