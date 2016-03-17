@@ -2,7 +2,7 @@
 
 from time import sleep, strftime
 
-FIRST_NAME = "Xuzhi"
+FIRST_NAME = "Dawn"
 calendar = {}
 
 def welcome():
