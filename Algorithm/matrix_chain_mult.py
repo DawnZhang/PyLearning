@@ -1,3 +1,5 @@
+#!/usr/bin/python -tt
+
 """
 Design dynamic programming algorithm for
 matrix chain mulitplication
