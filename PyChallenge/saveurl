@@ -1,0 +1,5 @@
+    uf = urllib.urlopen(url)
+    text = uf.read()
+    f = open(filename[:-3]+'.html', 'wb')
+    f.write(text)
+    f.close()
